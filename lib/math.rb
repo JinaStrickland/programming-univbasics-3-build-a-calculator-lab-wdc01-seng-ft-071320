@@ -7,15 +7,15 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  return num2 / num1
+  puts num2 / num1
 end
 
 def multiplication(num1, num2)
-  return num1 * num2
+  puts num1 * num2
 end
 
 def modulo(num1, num2)
- return num2 % num1
+ puts num2 % num1
 end
 
 def square_root(num)
@@ -26,4 +26,4 @@ end
 
 #addition(2, 4)
 #subtraction(2, 4)
-square_root(2)
+#square_root(2)
