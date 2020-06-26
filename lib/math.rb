@@ -19,11 +19,11 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  return num ** num
+  puts num ** num
 
 end
 
 
 #addition(2, 4)
 #subtraction(2, 4)
-#square_root(2)
+square_root(2)
