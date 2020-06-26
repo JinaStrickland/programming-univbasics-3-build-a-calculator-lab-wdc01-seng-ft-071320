@@ -25,3 +25,4 @@ end
 
 
 addition(2, 4)
+subtraction(2, 4)
