@@ -19,8 +19,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  return num ** 2
-
+  return Math.sqrt(num) 
 end
 
 
