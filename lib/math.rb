@@ -24,6 +24,6 @@ def square_root(num)
 end
 
 
-addition(2, 4)
-subtraction(2, 4)
-square_root(2)
+#addition(2, 4)
+#subtraction(2, 4)
+#square_root(2)
